@@ -1,5 +1,7 @@
 # Comment Manager
 
+[Demo](https://vanyachyzh.github.io/comments/)
+
 This is a web application built with React, Redux, TypeScript, HTML, and CSS that allows users to create comments and manage a list of comments.
 
 ## Features
