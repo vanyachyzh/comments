@@ -1,0 +1,10 @@
+.comment-form {
+  width: 30%;
+  position: fixed;
+  top: 50px;
+
+  &__button {
+    position: absolute;
+    bottom: -15px;
+  }
+}
